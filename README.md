@@ -29,6 +29,7 @@ Dự án được tạo với mục tiêu Học hỏi công nghệ và luyện t
 
 ## 📦 Cài đặt & Chạy Game
 
-Chạy lệnh: python main.py
+1. Cài đặt thư viện Pygame: pip install pygame
+2. Chạy lệnh: python main.py
 
 
