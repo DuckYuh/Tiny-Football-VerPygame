@@ -6,7 +6,7 @@ This project was created to learn new technologies and practice game programming
 ---
 
 ## 🚀 Main Features
-- ⚽ **Gameplay:** Use the arrow keys or WASD to control the player and score goals and F or numpad_0 to change Player
+- ⚽ **Gameplay:** Use the arrow keys or WASD and F or numpad_0 to change Player to control the player and score goals
 - 🎨 **Graphics:** 2D visuals built with Pygame  
 - 🧠 **Logic:** Detects collisions between the player and the ball, then calculates ball direction and force  
 
