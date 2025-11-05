@@ -1,35 +1,44 @@
 # 🎮 Tiny Football
 
-Một trò chơi 2D được phát triển bằng **Python** và **Pygame**.  
-Dự án được tạo với mục tiêu học hỏi công nghệ và luyện tập lập trình game.
+A 2D game developed using **Python** and **Pygame**.  
+This project was created to learn new technologies and practice game programming skills.
 
 ---
 
-## 🚀 Tính năng chính
-- ⚔️ Gameplay: Sử dụng các phím mũi tên hoặc WASD để điều khiển cầu thủ đưa banh vào lưới
-- 🎨 Đồ họa: 2D sử dụng Pygame
-- 🔊 Âm thanh: Hỗ trợ hiệu ứng âm thanh và nhạc nền
-- 🧠 Logic: Kiểm tra va chạm giữa cầu thủ và banh sau đó tính hướng bóng và lực
+## 🚀 Main Features
+- ⚽ **Gameplay:** Use the arrow keys or WASD to control the player and score goals and F or numpad_0 to change Player
+- 🎨 **Graphics:** 2D visuals built with Pygame  
+- 🧠 **Logic:** Detects collisions between the player and the ball, then calculates ball direction and force  
 
 ---
 
-## 🛠️ Công nghệ sử dụng
-| Thành phần | Mô tả |
-|-------------|--------|
-| **Ngôn ngữ** | Python |
+## 🛠️ Technologies Used
+| Component | Description |
+|------------|-------------|
+| **Language** | Python |
 | **Game Engine / Framework** | Pygame |
 | **IDE** | Visual Studio Code |
-| **Hệ điều hành** | Windows |
+| **Operating System** | Windows |
 
 ---
 
 ## 🎮 Demo
+-- **Image**
+<img width="989" height="745" alt="image" src="https://github.com/user-attachments/assets/c7a0d5ef-cc5b-49a7-8ffa-49c8591bc466" />
+
+<img width="997" height="742" alt="image" src="https://github.com/user-attachments/assets/84895474-6fc4-4abf-b4c2-87578030e54a" />
+
+-- **Video**
+![20251105-1238-38 9686183](https://github.com/user-attachments/assets/ae0b8d3c-4843-4f60-b169-b23637cdb376)
+
 
 ---
 
-## 📦 Cài đặt & Chạy Game
+## 📦 Installation & Running
 
-1. Cài đặt thư viện Pygame: pip install pygame
-2. Chạy lệnh: python main.py
+```bash
+# 1. Install dependencies
+pip install pygame
 
-
+# 2. Run the game
+python main.py
